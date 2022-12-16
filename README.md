@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chenti-yak
+- 👋 Hi, I’m @Chenti
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning react js
 - 💞️ I’m looking to collaborate on web development projects.
